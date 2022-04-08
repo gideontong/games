@@ -1,4 +1,4 @@
-# Cambio
+# Cambio[^1]
 
 ## The Basics
 
@@ -60,3 +60,5 @@ If a player knows another player's card and is quick enough to stick that card, 
 ## Winning
 
 In order to win, one player has to call "Cambio"”" during their turn and cannot play a card if they call it. This must be done prior to the next player touching the deck. Once the player calls Cambio, the rest of the players get one more turn to play before everyone flips their cards and adds up their points. The person with the least amount of points wins. If there is a tie, the player who didn't call Cambio wins. If there is a tie between two players who didn't call Cambio, the player with the least value cards wins. (i.e. Joker, Ace and Red King, 2 = Joker, Ace would win)
+
+[^1]: [Original Source](https://cambiocardgame.com/rules/)
